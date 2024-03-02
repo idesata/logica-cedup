@@ -1,0 +1,16 @@
+string endereco;
+string telefone;
+real salario;
+string cpf;
+real preco;
+real temperatura;
+logic casado;
+string nascimento;
+logic vacinado;
+real preco_gasolina;
+real litros_gasolina;
+real preco_pao;
+int total_compras;
+string idade;
+date data_contrato;
+int nivel_escolaridade;
